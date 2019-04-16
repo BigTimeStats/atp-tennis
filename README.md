@@ -1,6 +1,6 @@
 # ATP Tennis Data
 
-Test publishing updated ATP tennis match data from 2018-08-17 to 03-20-2019.
+Updated ATP tennis match data from 2018-08-17 to 03-20-2019
 
 Same data structure as Jeff Sackmann's database with a few other/different attributes:
 
